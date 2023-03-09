@@ -17,7 +17,7 @@ These instructions are designed to be run on a Linux- or Unix-like system.
 - [**SSL certificate configuration**](#ssl-certificate-configuration)
 - [**Modified Windshaft configaration**](#modified-windshaft-configaration)
 - [**Cleaning up after Docker**](#cleaning-up-after-docker)
-- [**Docker file Host information**](#docker-file-host-information)
+- [**Docker file Host information**](#Docker-Image-Host-Information)
 - [**Backup Policy**](#backup-policy-for-aws-services)
 - [**General troubleshooting notes for server restarts**](#general-troubleshooting-notes-for-server-restarts)
 
